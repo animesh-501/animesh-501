@@ -9,17 +9,17 @@
 
 ---
 
-**6+ years of experience, now focused on supply chain:** how much stock to hold, where deliveries break down, and where spend leaks. Every project below is backtested on real data and ends in a decision, not just a model.
+**Working in supply chain since 2019:** procurement, manufacturing planning, and demand and inventory analytics. Each project below starts from a planning question (how much stock to hold, why deliveries are late, where spend leaks), is backtested on public data, and ends with a recommendation.
 
-🎓 MSBA, Cal State East Bay (2026) &nbsp;·&nbsp; 🛂 OPT available
+MSBA, Cal State East Bay (2026)
 
 ### Projects
 
 | Project | What it found |
 |---|---|
 | [**Demand Forecasting & Safety Stock**](https://github.com/animesh-501/demand-forecast-safety-stock) | **32% less inventory** than a moving-average forecast for the same 95% in-stock rate, on a 52-week replay of 500 SKU-locations |
-| [**OTIF Root-Cause Analysis**](https://github.com/animesh-501/otif-delivery-risk) | 41% OTIF was a promise-setting problem, not carriers or regions. **Fixing promises alone reaches 80%** |
-| [**Procurement Spend & Supplier Scorecard**](https://github.com/animesh-501/procurement-spend-scorecard) | **$24–35M** paid above item benchmarks across $1.63B of spend; the largest suppliers need a delivery plan, not a price one |
+| [**OTIF Root-Cause Analysis**](https://github.com/animesh-501/otif-delivery-risk) | 41% OTIF traced to delivery promises set shorter than actual transit. **Fixing the promises alone reaches 80%** |
+| [**Procurement Spend & Supplier Scorecard**](https://github.com/animesh-501/procurement-spend-scorecard) | **$24–35M** paid above item benchmarks across $1.63B of spend; the two largest suppliers price at benchmark but deliver only 86–87% on time |
 | [**Inventory ABC/XYZ & Policy Test**](https://github.com/animesh-501/inventory-abc-xyz-optimization) | Textbook segmentation saved under 1%. **Stopping reorders on dormant SKUs cut stock 12.6%** |
 
 ### Stack
@@ -28,12 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
 
 ### What I'm open to
