@@ -9,9 +9,9 @@
 
 ---
 
-**6 years of experience, now focused on supply chain:** how much stock to hold, where deliveries break down, and where spend leaks. Every project below is backtested on real data and ends in a decision, not just a model.
+**6+ years of experience, now focused on supply chain:** how much stock to hold, where deliveries break down, and where spend leaks. Every project below is backtested on real data and ends in a decision, not just a model.
 
-📍 Dallas, TX &nbsp;·&nbsp; 🎓 MSBA, Cal State East Bay (2026) &nbsp;·&nbsp; 🛂 OPT available
+🎓 MSBA, Cal State East Bay (2026) &nbsp;·&nbsp; 🛂 OPT available
 
 ### Projects
 
