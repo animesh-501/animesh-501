@@ -19,7 +19,7 @@ MSBA, Cal State East Bay (2026)
 |---|---|
 | [**Demand Forecasting & Safety Stock**](https://github.com/animesh-501/demand-forecast-safety-stock) | **32% less inventory** than a moving-average forecast for the same 95% in-stock rate, on a 52-week replay of 500 SKU-locations |
 | [**OTIF Root-Cause Analysis**](https://github.com/animesh-501/otif-delivery-risk) | 41% OTIF traced to delivery promises set shorter than actual transit. **Fixing the promises alone reaches 80%** |
-| [**Procurement Spend & Supplier Scorecard**](https://github.com/animesh-501/procurement-spend-scorecard) | **$24–35M** paid above item benchmarks across $1.63B of spend; the two largest suppliers price at benchmark but deliver only 86–87% on time |
+| [**Procurement Spend & Supplier Scorecard**](https://github.com/animesh-501/procurement-spend-scorecard) | **$35–38M** paid above item benchmarks (goods price and landed cost) across $1.63B of spend; the two largest suppliers price at benchmark but deliver only 86–87% on time |
 | [**Inventory ABC/XYZ & Policy Test**](https://github.com/animesh-501/inventory-abc-xyz-optimization) | Textbook segmentation saved under 1%. **Stopping reorders on dormant SKUs cut stock 12.6%** |
 
 ### Stack
